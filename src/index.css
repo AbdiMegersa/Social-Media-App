@@ -1,0 +1,62 @@
+.App {
+  display: flex
+}
+
+.post {
+  width: 450px;
+  max-width: 500px;
+  margin: 15px auto;
+  padding: 20px;
+}
+
+.poster-img {
+  width: 40px;
+  border-radius: 100%;
+  margin-right: 6px;
+}
+
+.post-input {
+  margin-right: 10px;
+  border: 2px solid rgb(232, 232, 235);
+  border-radius: 17px;
+  width: 350px;
+  height: 40px;
+  padding-left: 20px;
+  background-color: #efefef;
+}
+
+.post-btn {
+  background-color: #dc4734;
+  padding: 10px 20px;
+  margin: auto;
+  border: none;
+  height: 40px;
+  text-align: center;
+  border-radius: 17px;
+  color: rgb(241, 233, 233);
+  font-weight: bold;
+}
+
+.post-text {
+  font-size: 14px;
+}
+
+.post-user-img img {
+  width: 60px;
+  border-radius: 100%;
+
+}
+
+.profile {
+  border: 2px solid ghostwhite;
+  text-align: center;
+}
+
+.profile-img {
+  width: 100px;
+  border-radius: 100%;
+}
+
+.border-shadow {
+  box-shadow: 0 0 3pt 1pt #cecece;
+}
